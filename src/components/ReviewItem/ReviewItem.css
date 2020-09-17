@@ -1,0 +1,23 @@
+.review-img{
+    height: 130px;
+}
+
+.product-quantity{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.remove-btn{
+    border: none;
+    background: #FF9800;
+    padding: 5px 16px;
+    border-radius: 5px;
+    color: #141414;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.remove-btn:hover{
+    background: #2b2b2b;
+    color: #ffffff;
+}

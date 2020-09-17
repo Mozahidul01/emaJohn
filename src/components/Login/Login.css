@@ -1,0 +1,108 @@
+.login-area{
+    margin: 10px;
+}
+
+.login{
+    max-width: 550px;
+    background-color: #ffffff;
+    margin-top: 60px;
+    padding: 50px 0;
+    border-radius: 3px;
+    box-shadow: 5px 10px 25px #dbdbdb;
+}
+
+.email-login{
+    padding: 10px;
+}
+
+.user-name,
+.email,
+.password{
+    margin-top: 10px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #dadada;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.email:focus{
+    border: 1px solid #F9B550 !important;
+}
+.forgot-password{
+    margin: 2px 0 10px 0;
+}
+
+.login-btn{
+    width: 80%;
+    background: #4786FF;
+    border-radius: 3px;
+    border: none;
+    padding: 6px 0;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 5px 10px 10px 0;
+}
+
+.remember{
+    padding-top: 9px;
+}
+
+.login-btn:hover{
+    background: #111111;
+    color: #ffffff;
+}
+
+.google-login,
+.fb-login,
+.twitter-login{
+    margin: 5px 10px 0px 10px;
+}
+
+.google-btn,
+.fb-btn,
+.twitter-btn{
+    border: none;
+    border-radius: 3px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    width: 100%;
+    text-align: left;
+    padding: 8px 0;
+}
+
+.google-icon,
+.fb-icon,
+.twitter-icon{
+    margin-right: 5px;
+}
+
+.google-btn{
+    background: #F44235;
+}
+
+.google-icon{
+    background: #C73A31;
+    padding: 8px 16px;
+}
+
+.fb-btn{
+    background: #3A5998;
+}
+
+.fb-icon{
+    background: #243B68;
+    padding: 8px 19px;
+}
+
+.twitter-btn{
+    background: #05ABED;
+}
+
+.twitter-icon{
+    background: #0A95CB;
+    padding: 8px 15px;
+}
